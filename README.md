@@ -8,9 +8,10 @@ Download [MidiPipe](http://www.subtlesoft.square7.net/MidiPipe.html).
 You'll also need SampleLayout.nktrl2_data within this repo. Download it and write it onto your device.
 
 ##MidiPipe
-Open it up and create a pipe like the example below:
-
-IMAGE
+Open it up, create a pipe and add:
+- Midi In
+- AList
+- AppleScript Trigger
 
 ###Midi In
 Your Korg nanoKONTROL2 device should appear in the dropdown list within Midi In as one of the inputs - be sure to select it.
