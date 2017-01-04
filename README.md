@@ -3,7 +3,7 @@ This is a forked and tweaked version of netnutmike's work on the Applescript for
 The main tweaks in my version is to allow for custom naming of shots within Wirecast
 
 ##Setup
-Download (MidiPipe)[http://www.subtlesoft.square7.net/MidiPipe.html].
+Download [MidiPipe](http://www.subtlesoft.square7.net/MidiPipe.html).
 
 You'll also need SampleLayout.nktrl2_data within this repo. Download it and write it onto your device.
 
